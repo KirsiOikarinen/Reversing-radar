@@ -1,18 +1,19 @@
-1. Arduino Uno - R3: 
+1. ArduinoÂ UnoÂ -Â R3(GeekCreit): 
    https://www.elektroniikkaosat.com/c-45/p-750077620/Kehitysalusta-Uno-R3.html?gclid=Cj0KEQjwldzHBRCfg_aImKrf7N4BEiQABJTPKFaKccfzJMj10tXsjKHYQqt-9VZasKPkwn57nodMDM4aAh7J8P8HAQ 
 
-2. PHI-1 Shield for Arduino with I2C-modul: 
+2. PHI-1Â ShieldÂ forÂ ArduinoÂ with I2C-modul(LCD): 
    https://www.elektroniikkaosat.com/c-46/p-2016/LCD-naytto-2x16-merkkia-sininen-taustavalo-i-useita-vaihtoehtoja-i.html 
 
-3. 9V battery with a connector from here (9V Battery Clip 6F22 Snap-On Terminal): 
+3. 9VÂ batteryÂ withÂ aÂ connectorÂ fromÂ hereÂ (9VÂ BatteryÂ ClipÂ 6F22Â Snap-OnÂ Terminal): 
    https://www.elektroniikkaosat.com/c-95/p-880418443/9-V-paristoneppari-Arduinolle.html
 
-4. PING))) Ultrasonic Distance Sensor     TAI     Ultrasonic Range Finder - LV-MaxSonar-EZ1 
+4. WeatherÂ â€Â proof Ultrasonic Sensor with Separate Probe SKU : SEN0208
    https://www.digikey.fi/product-detail/en/dfrobot/SEN0208/1738-1050-ND/6588472 
 
-5. One 1uF 25V capacitor: 
+5. OneÂ 1uFÂ 25VÂ capacitor: 
    https://www.digikey.fi/product-detail/en/cornell-dubilier-electronics-cde/SN010M025ST/338-3590-ND/1627562 
 
+Connection cables for connecting the circuit boards
 USB cable with connectors
 
  
