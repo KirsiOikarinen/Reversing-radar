@@ -10,10 +10,7 @@
 4. Weather ‐ proof Ultrasonic Sensor with Separate Probe SKU : SEN0208
    https://www.digikey.fi/product-detail/en/dfrobot/SEN0208/1738-1050-ND/6588472 
 
-5. One 1uF 25V capacitor: 
-   https://www.digikey.fi/product-detail/en/cornell-dubilier-electronics-cde/SN010M025ST/338-3590-ND/1627562 
-
 Connection cables for connecting the circuit boards
-USB cable with connectors
+USB cable
 
  
