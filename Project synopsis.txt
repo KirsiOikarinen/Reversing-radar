@@ -1,5 +1,0 @@
-Reversing radar device with an LCD-display: 
-
-The project's goal is to make an Arduino Uno RS based device that works as a reversing radar. 
-With an ultrasonic distance measurement sensor evaluation board  it detects the distance to the obstacles behind and displays the information on a small LCD display.
-From the gathered data it's possible to display statistics as well.
