@@ -1,0 +1,12 @@
+LCD I2C 	Kytket‰‰n Arduinoon
+SCL	Analog IN (A5)
+SDA	Analog IN (A4)
+GND	GND
+VCC	5V
+	
+WEATHER-PROOF 	Kytket‰‰n Arduinoon
+ULTRASONIC SENSOR	
+GND	GND
+Trig	Digital (PWM) -3
+Echo	Digital (PWM) 2
+5V	5V
